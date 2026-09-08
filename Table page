@@ -1,0 +1,38 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title></title>
+</head>
+<body>
+
+    <table border="1" >
+        <tr>
+          <th> Name</th>
+          <th> Age</th> 
+          <th> Hieght</th>      
+        </tr>
+        <tr>
+          <td> Ahmad</td>
+          <td> 20</td>
+          <td> 173</td>
+        </tr> 
+        <tr>
+            <td colspan="2" bgcolor="yellow">double col span</td>
+            <td> A</td>
+        </tr>
+        <tr>
+            <td rowspan="2">double row span</td>
+            <td> B</td>
+            <td> C</td>
+        </tr>   
+        <tr>
+            <td> f</td>
+            <td> c</td>
+        </tr>
+    </table>
+</body> 
+</html>
+
+
+
