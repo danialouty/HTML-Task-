@@ -1,0 +1,45 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title></title>
+</head>
+<body>
+<h1>rank in descending order</h1>
+<ol reversed start="23">
+  <li>kapil</li>
+  <li> steve</li>
+  <li> josh</li>
+  <li> jone </li>
+  <li> joshua</li>
+  <li> sondos </li>
+  <li> malak</li>
+</ol>
+
+<br>
+<br>
+<br>
+<ul> 
+  <li> Main catagory 1 
+    <ul>
+      <li> subcatagory 1.1</li>    
+      <li> subcatagory 1.2</li>
+    </ul>
+  </li>
+  <li> Main catagory 2
+    <ul>
+      <li> subcatagory 2.1</li>
+      <li> subcatagory 2.2</li>
+    </ul>
+  </li>
+</ul>
+
+<br>
+<br>
+
+
+</body>
+</html>
+
+
+
