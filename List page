@@ -37,7 +37,21 @@
 <br>
 <br>
 
+<ul>
+ <li>web development</li>
+   <ol>
+        <li> HTML</li>
+        <li> CSS
+            <ul>
+                <li>flexbox</li>
+                <li> grid</li>
+            </ul>
+        </li>
+        <li> JavaScript</li>
 
+    </ol>
+
+</ul>
 </body>
 </html>
 
